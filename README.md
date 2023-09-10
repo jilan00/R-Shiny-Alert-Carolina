@@ -11,3 +11,4 @@ Aware of the limitations of email communication, I designed an R-Shiny version t
 One of the biggest concerns most students have with regard to Alert Carolina is that: I have no idea where the place is. Is this robbery close to me? What's the trace of this theft? What's this adverse weather's potential affected area? Because Alert Carolina conveys these emergency messages via email, students can't have a straightforward understanding of the geographics of these cases. 
 
 By constructing this R-Shiny App, every end-user can adjust the visualization based on timeline selection, emergency type, and geographic location. It helps them to make better decisions on what the danger level for them right now and what corresponding actions need to be taken. 
+
